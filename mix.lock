@@ -1,0 +1,3 @@
+%{
+  "lumen_elixir": {:git, "https://github.com/lumen/lumen_elixir.git", "bc2c4c4272b943519c6586987ffdbb845e045b9e", [branch: "abstr_out"]},
+}
